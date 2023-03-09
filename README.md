@@ -1,18 +1,22 @@
-# notes and resources on protocol economy
+## notes and resources on protocol economy
 
 
 <br>
 
 
 
-### 👉 start with [how blockchain works](blockchains)
+#### 👉 start with [how blockchain works](blockchains)
+
+#### 👉 check [this curated list of protocols and projects](https://github.com/go-outside-labs/web3-protocols-design/blob/main/protocols_driving_a_healthy_future.md) that are authentic to their values and are committed to building a healthy and responsible future
+
+
 
 
 <br>
 
 ---
 
-## 🕹 game theory
+### 🕹 game theory
 
 <br>
 
@@ -30,11 +34,11 @@
 
 -----
 
-## 🛵 protocol design
+### 🛵 protocol design
 
 <br>
 
-### proposer-builder separation
+#### proposer-builder separation
 
 * [notes on pbs, by barnabe.eth](https://barnabe.substack.com/p/pbs)
   - thoughts on in-protocol pbs, market structure and allocation mechanism, whole vs. partial block building, block vs. slot auctions, inclusion lists, capturing true pbs value via consensus bid and protocol capture.
@@ -50,7 +54,7 @@
 
 <br>
 
-### eip-1559
+#### eip-1559
 
 * [transaction fee mechanism design for ethereum, by tim roughgarden](https://timroughgarden.org/papers/eip1559.pdf)
   - thoughts on how eip-1559 proposes a major change to ethereum's transaction fee mechanism, the market for ethereum transactions, incentive-compatible transaction fee mechanisms, and alternative designs.
@@ -61,21 +65,21 @@
 
 <br>
 
-### mev-smoothing
+#### mev-smoothing
 
 * [burning mev through block proposer auctions, by domothy](https://ethresear.ch/t/burning-mev-through-block-proposer-auctions/14029)
 
 
 <br>
 
-### algorithmic game theory
+#### algorithmic game theory
 
 * [algorithmic game theory, by tim roughgarden](https://theory.stanford.edu/~tim/papers/cacm.pdf)
 
 
 <br>
 
-### inclusion lists
+#### inclusion lists
 
 * [inclusion list economics](https://efdn.notion.site/Inclusion-list-economics-b0d61d0e21a74963a54448e48d9adc8a)
 
@@ -84,7 +88,7 @@
 
 ------
 
-## 👾 models
+### 👾 models
 
 <br>
 
