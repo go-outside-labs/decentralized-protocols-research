@@ -1,4 +1,4 @@
-## notes and resources on protocol economy
+## protocols economy and design
 
 
 <br>
