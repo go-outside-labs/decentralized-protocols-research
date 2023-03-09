@@ -2,7 +2,7 @@
 
 <br>
 
-##### curated list of protocols and projects that are authentic to their values and are committed to building a healthy and responsible future.
+##### *curated list of protocols and projects that are authentic to their values and are committed to building a healthy and responsible future.*
 
 <br>
 
