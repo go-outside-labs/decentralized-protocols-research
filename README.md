@@ -7,7 +7,7 @@
 
 #### 👉 start with [how blockchain works](blockchains)
 
-#### 👉 check [this curated list of protocols and projects](https://github.com/go-outside-labs/web3-protocols-design/blob/main/protocols_driving_a_healthy_future.md) that are authentic to their values and are committed to building a healthy and responsible future
+#### 👉 check [this curated list of protocols and projects](bulding_protopia) that are authentic to their values and are committed to building a healthy and responsible future
 
 
 
