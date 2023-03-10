@@ -7,9 +7,6 @@
 
 #### 👉 start with [how blockchain works](blockchains)
 
-#### 👉 check [this curated list of protocols and projects](bulding_protopia) that are authentic to their values and are committed to building a healthy and responsible future
-
-
 
 
 <br>
