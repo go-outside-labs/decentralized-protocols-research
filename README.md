@@ -17,7 +17,7 @@
 
 <br>
 
-##### [zero-knowledge proofs](zkp)
+##### [zero-knowledge proofs](zero_knowledge_proofs)
 
 ##### [game theory](game_theory)
 
