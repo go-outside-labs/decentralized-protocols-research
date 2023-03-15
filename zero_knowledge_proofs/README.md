@@ -4,6 +4,8 @@
 
 ### zkp use cases
 
+<br>
+
 * **private transactions**
   - blockchains such as zcash, with privacy-preserving txs
   
