@@ -1,4 +1,4 @@
-## 🛵 protocol design
+## 🛵 consensus protocols
 
 <br>
 
