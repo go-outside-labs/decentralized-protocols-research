@@ -3,17 +3,13 @@
 
 <br>
 
-### intro
-
-<br>
-
-##### start with [how blockchain works](blockchains)
+##### 👉 start with [how blockchain works](blockchains)
 
 <br>
 
 ---
 
-### advanced research
+### research in this repo
 
 <br>
 
