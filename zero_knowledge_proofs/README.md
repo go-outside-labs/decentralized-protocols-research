@@ -26,5 +26,4 @@
 
 <br>
 
-* [modern zk proof mechanisms and software, by m. steinkirch](https://mirror.xyz/steinkirch.eth/Ra1ErGGJPxtnZOOv5z2zchIvWrUaI_W-yxzsacjCK44)
 * [rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)
