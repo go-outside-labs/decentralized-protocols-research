@@ -23,6 +23,8 @@
 
 ##### [zero-knowledge proofs](zero_knowledge_proofs)
 
+##### [optimization methods](optimization)
+
 
 
 <br>
