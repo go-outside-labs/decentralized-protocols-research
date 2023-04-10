@@ -4,6 +4,9 @@
 
 #### proposer-builder separation
 
+* [seeing like a protocol](https://barnabe.substack.com/p/seeing-like-a-protocol)
+  - barnabe delights us with an overview of this mind thinking about protocols mev.
+
 * [notes on pbs, by barnabe.eth](https://barnabe.substack.com/p/pbs)
   - thoughts on in-protocol pbs, market structure and allocation mechanism, whole vs. partial block building, block vs. slot auctions, inclusion lists, capturing true pbs value via consensus bid and protocol capture.
   
