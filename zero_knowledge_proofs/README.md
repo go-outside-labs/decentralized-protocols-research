@@ -26,4 +26,5 @@
 
 <br>
 
+* [zero knowledge youtube](https://www.youtube.com/@zeroknowledgefm)
 * [rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)
