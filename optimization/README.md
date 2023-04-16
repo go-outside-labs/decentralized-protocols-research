@@ -12,6 +12,44 @@
 in that case, the problem is to choose a subset of the items of maximum total value that will fit in the container.
 
 
+
+<br>
+
+---
+
+### mempool latency
+
+* there is no single mempool
+
+<br>
+
+##### compute latency
+
+* dedupe
+* transaction validation
+* chain state checks
+
+
+<br>
+
+##### transport latency
+
+* peering distance
+* link quality
+* peering changes
+* liveliness of peers
+
+<br>
+
+
+##### validation pipeline strategies
+
+* validation shortcuts
+* more chain state caching (rely on memory instead of disk)
+* private networks, bdn
+* optimized peering, peri(gee)
+
+
 <br>
 
 ---
