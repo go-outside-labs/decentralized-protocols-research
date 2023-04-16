@@ -23,6 +23,8 @@
 
 ##### [zero-knowledge proofs](zero_knowledge_proofs)
 
+##### [data availability layer](da_layer)
+
 ##### [optimization methods](optimization)
 
 
