@@ -2,6 +2,15 @@
 
 <br>
 
+### tl; dr
+
+<br>
+
+
+<br>
+
+----
+
 ### zkp use cases
 
 <br>
@@ -17,6 +26,18 @@
   
 * **decentralized identity and authentication**
   - zkps can underpin identity management systems to enable users to validate their identity
+
+<br>
+
+---
+
+### in this dir
+
+<br>
+
+* [zkEVM](zkEVM.md)
+* [zkSync](zkSync.md)
+
 
 <br>
 
