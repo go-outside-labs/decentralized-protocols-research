@@ -15,17 +15,17 @@
 
 
 
-##### [game theory](game_theory)
+#### 👾 [game theory](game_theory)
 
-##### [economic models](economic_models)
+#### 💰 [economic models](economic_models)
 
-##### [consensus protocols](consensus_protocols)
+#### 🫱🏻‍🫲🏽 [consensus protocols](consensus_protocols)
 
-##### [zero-knowledge proofs](zero_knowledge_proofs)
+#### 🧮 [zero-knowledge proofs](zero_knowledge_proofs)
 
-##### [data availability layer](da_layer)
+#### 📀 [data availability layer](da_layer)
 
-##### [optimization methods](optimization)
+#### 👍🏽 [optimization methods](optimization)
 
 
 
