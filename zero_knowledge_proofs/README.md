@@ -66,6 +66,7 @@
 
 <br>
 
+* [ethereum foundation applied zkp team](https://appliedzkp.org/)
 * [unirep, a private reputation system based on zkp](https://github.com/Unirep/Unirep)
 * [axiom, zk coprocessor for ethereum](https://www.axiom.xyz/)
   - support for reads for any JSON-RPC query to an archive node, usable on-chain. This includes ZK proofs for states, transactions, and receipts.
