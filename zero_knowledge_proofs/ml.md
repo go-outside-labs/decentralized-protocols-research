@@ -28,6 +28,7 @@
  
  <br>
  
+ * [humanness in the age of ai, by worldcoin](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
  * [zk-img: attested images via zk-proofs, d. kang et al](https://arxiv.org/pdf/2211.04775.pdf)
  * [checks and balances ml and zk, by a16](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
  * [trustless verification of ml, by d. kang](https://ddkang.github.io/blog/2022/10/18/trustless/_
