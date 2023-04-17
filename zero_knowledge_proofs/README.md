@@ -14,7 +14,7 @@
 
 ----
 
-### zkp use cases
+### zk proofs use cases
 
 <br>
 
@@ -51,7 +51,7 @@
 
 ---
 
-### readings
+### resources
 
 <br>
 
@@ -61,9 +61,8 @@
 
 <br>
 
-----
 
-### projects
+##### projects
 
 <br>
 
