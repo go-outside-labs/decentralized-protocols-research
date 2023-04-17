@@ -34,3 +34,4 @@
  * [trustless verification of ml, by d. kang](https://ddkang.github.io/blog/2022/10/18/trustless/)
  * [tachikoma, neural nets for zk proof systems](https://github.com/zk-ml/tachikoma)
  * [zkml, framework for constructing proofs of ml model in zksnarks](https://github.com/ddkang/zkml)
+ * [ezkl, deep learning inference in zk-snark](https://github.com/zkonduit/ezkl)
