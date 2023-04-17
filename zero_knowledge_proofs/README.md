@@ -39,6 +39,7 @@
 <br>
 
 * [zk-SNARKS](zkSNARKS.md)
+* [zk-STARKS](zkSTARKS.md)
 * [zkEVM](zkEVM.md)
 * [zkSync](zkSync.md)
 * [halo2](halo2.md)
