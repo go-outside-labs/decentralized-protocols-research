@@ -1,4 +1,4 @@
-## 💎 modern zkp proving systems
+## 💎 modern zk proving systems
 
 <br>
 
