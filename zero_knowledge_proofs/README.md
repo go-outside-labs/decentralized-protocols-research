@@ -49,3 +49,14 @@
 
 * [zero knowledge youtube](https://www.youtube.com/@zeroknowledgefm)
 * [rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)
+
+
+<br>
+
+----
+
+### projects
+
+<br>
+
+* [unirep, a private reputation system based on zkp](https://github.com/Unirep/Unirep)
