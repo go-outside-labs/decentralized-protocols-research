@@ -41,6 +41,7 @@
 * [zk-SNARKS](zkSNARKS.md)
 * [zkEVM](zkEVM.md)
 * [zkSync](zkSync.md)
+* [halo2](halo2.md)
 * [machine learning](ml.md)
 * [privacy-enhancing technologies](privacy_enhancing_technologies.md)
 
