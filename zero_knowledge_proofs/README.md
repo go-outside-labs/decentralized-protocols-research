@@ -37,6 +37,7 @@
 
 * [zkEVM](zkEVM.md)
 * [zkSync](zkSync.md)
+* [privacy-enhancing technologies](privacy_enhancing_technologies.md)
 
 
 <br>
