@@ -38,6 +38,7 @@
 
 <br>
 
+* [zk-SNARKS](zkSNARKS.md)
 * [zkEVM](zkEVM.md)
 * [zkSync](zkSync.md)
 * [machine learning](ml.md)
