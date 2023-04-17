@@ -18,4 +18,6 @@
 
 <br>
 
+
 * [what are zk-snarks, by z-cash](https://z.cash/technology/zksnarks/)
+* [libsnark, C++ lib for zkSNARKS](https://github.com/scipr-lab/libsnark)
