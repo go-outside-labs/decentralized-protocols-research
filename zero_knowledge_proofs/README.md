@@ -7,6 +7,7 @@
 <br>
 
 * zk proofs represent programas as circuits where a prover generates a proof from public and private inputs, and the verifier computes that the output if the statement is correct (without any information regarding the private input).
+* refer to “succinct proofs” instead of “zero-knowledge proofs” when the zero-knowledge property is not present.
 
 
 
@@ -55,7 +56,9 @@
 
 <br>
 
-* [zero knowledge youtube](https://www.youtube.com/@zeroknowledgefm)
+* [what are zk proofs, ethereum foundation](https://ethereum.org/en/zero-knowledge-proofs/)
+* [zero knowledge postcast youtube](https://www.youtube.com/@zeroknowledgefm)
+* [the state of zk applications in ethereum, by andyguzman.eth](https://mirror.xyz/andyguzman.eth/p4nNk7Rr-2i-uZDO_lTHJEWtNv3nYt2N2z3Cwly8RHc)
 * [rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)
 
 
@@ -72,5 +75,6 @@
   - support for reads for any JSON-RPC query to an archive node, usable on-chain. This includes ZK proofs for states, transactions, and receipts.
   - support computations too large to be done on-chain.
 * [risc zero, general purpose zk vm](https://www.risczero.com/)
+* [sunccint, with telepathy using zkSNARKS](https://www.succinct.xyz/)
 
 
