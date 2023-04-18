@@ -57,6 +57,11 @@
 
 <br>
 
+##### articles
+
+<br>
+
+* [the zk-ECDSA landscape, by pse ethereum foundation](https://mirror.xyz/privacy-scaling-explorations.eth/djxf2g9VzUcss1e-gWIL2DSRD4stWggtTOcgsv1RlxY)
 * [what are zk proofs, ethereum foundation](https://ethereum.org/en/zero-knowledge-proofs/)
 * [zero knowledge postcast youtube](https://www.youtube.com/@zeroknowledgefm)
 * [the state of zk applications in ethereum, by andyguzman.eth](https://mirror.xyz/andyguzman.eth/p4nNk7Rr-2i-uZDO_lTHJEWtNv3nYt2N2z3Cwly8RHc)
@@ -71,7 +76,6 @@
 <br>
 
 * [ethereum foundation applied zkp team](https://appliedzkp.org/)
-* [the zk-ECDSA landscape, by pse ethereum foundation](https://mirror.xyz/privacy-scaling-explorations.eth/djxf2g9VzUcss1e-gWIL2DSRD4stWggtTOcgsv1RlxY)
 * [semaphore, a zk membership proof](https://mirror.xyz/privacy-scaling-explorations.eth/ImQNsJsJuDf_VFDm9EUr4njAuf3unhAGiPu5MzpDIjI):
   - [unirep, a private reputation system based on zkp](https://github.com/Unirep/Unirep) (zk protocol enabling trustless interactions and enhanced user privacy in applications).
   - [interep]()
