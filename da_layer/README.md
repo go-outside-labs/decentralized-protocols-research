@@ -2,6 +2,13 @@
 
 <br>
 
+### tl; dr
+
+* ethereum protocol-level changes such as sharding and eip-4488 are intended to increase da and reduce the cost of storing data on ethereum.
+
+
+<br>
+
 ---
 
 ### resources
