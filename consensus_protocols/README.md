@@ -21,3 +21,4 @@
 * [validity rollups on bitcoin, by john light](https://bitcoinrollups.org/)
 * [covenants, by bitcoin optech](https://bitcoinops.org/en/topics/covenants/)
 * [shared sequencing, by expresso](https://hackmd.io/@EspressoSystems/SharedSequencing)
+* [a rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
