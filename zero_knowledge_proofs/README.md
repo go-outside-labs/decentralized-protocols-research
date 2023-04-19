@@ -9,6 +9,9 @@
 * zk proofs represent programas as circuits where a prover generates a proof from public and private inputs, and the verifier computes that the output if the statement is correct (without any information regarding the private input).
 * refer to “succinct proofs” instead of “zero-knowledge proofs” when the zero-knowledge property is not present.
 
+<br>
+
+<img width="829" src="https://user-images.githubusercontent.com/1130416/232964885-91475b23-6457-4710-a4e8-ccd41e7b7a78.png">
 
 
 <br>
