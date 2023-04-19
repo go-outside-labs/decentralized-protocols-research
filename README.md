@@ -14,7 +14,7 @@
 
 #### 🧮 [zero-knowledge proofs](zero_knowledge_proofs)
 
-#### 📀 [data availability layer](da_layer)
+#### 📀 [data availability layer](data_availability)
 
 #### 👍🏽 [optimization methods](optimization)
 
