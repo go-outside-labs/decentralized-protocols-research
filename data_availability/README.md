@@ -4,6 +4,9 @@
 
 ### tl; dr
 
+<br>
+
+* data availability on the ethereum network is one of the primary scaling bottlenecks.
 * ethereum protocol-level changes such as sharding and eip-4488 are intended to increase da and reduce the cost of storing data on ethereum.
 
 <br>
