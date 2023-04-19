@@ -1,6 +1,5 @@
 ### zkp projects
 
-<br>
 
 * [ethereum foundation applied zkp team](https://appliedzkp.org/)
 * [semaphore, a zk membership proof](https://mirror.xyz/privacy-scaling-explorations.eth/ImQNsJsJuDf_VFDm9EUr4njAuf3unhAGiPu5MzpDIjI):
@@ -12,4 +11,5 @@
   - support computations too large to be done on-chain.
 * [risc zero, general purpose zk vm](https://www.risczero.com/)
 * [sunccint, with telepathy using zkSNARKS](https://www.succinct.xyz/)
+* [zklend](https://zklend.com/)
 
