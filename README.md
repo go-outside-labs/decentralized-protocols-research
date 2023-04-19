@@ -28,7 +28,7 @@
 
 #### 💰 [economic models](economic_models)
 
-#### 🫱🏻‍🫲🏽 [consensus protocols](consensus_protocols)
+#### 🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)
 
 #### 🧮 [zero-knowledge proofs](zero_knowledge_proofs)
 
