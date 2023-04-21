@@ -21,3 +21,9 @@
 
 * [what are zk-snarks, by z-cash](https://z.cash/technology/zksnarks/)
 * [libsnark, C++ lib for zkSNARKS](https://github.com/scipr-lab/libsnark)
+
+<br>
+
+##### halo2
+
+* [intro to PLONKish/halo2, by ying tong](https://docs.google.com/presentation/d/1UpMo2Ze5iwzpwICPoKkeT04-xGFRp7ZzVPhgnidr-vs/edit#slide=id.g133c45f1bcd_3_36)
