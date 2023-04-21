@@ -60,7 +60,7 @@
 
 <br>
 
-* **[go-outside-labs' halo2-toolkit](https://github.com/go-outside-labs/halo2-toolkit-rs)**
+* **[go-outside-labs' zkp circuits gym](https://github.com/go-outside-labs/zkp-circuits)**
 * **[zero knowledge postcast youtube](https://www.youtube.com/@zeroknowledgefm)**
 * **[rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)**
 * **[what are zk proofs, ethereum foundation](https://ethereum.org/en/zero-knowledge-proofs/)**
