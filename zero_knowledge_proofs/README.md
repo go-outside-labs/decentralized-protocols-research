@@ -43,10 +43,19 @@
 <br>
 
 * **[zkEVM overview](zkEVM.md)**
+* **[cryptographic primitives](primitives.md)**
+
+##### proof systems
+
 * **[zk-STARKS](zkSTARKS.md)**
 * **[zk-SNARKS](zkSNARKS.md)**
+* **[PLONK](PLONK.md)**
+* **[Bulletproofs](Bulletproofs.md)**
+
+
+##### applications
+
 * **[machine learning](ml.md)**
-* **[cryptographic primitives](primitives.md)**
 * **[privacy-enhancing technologies](privacy_enhancing_technologies.md)**
 * **[an incomplete catalog of zkp projects](zkp_projects.md)**
 
