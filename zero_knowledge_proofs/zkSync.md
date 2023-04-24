@@ -12,10 +12,22 @@
 
 <br>
 
+### ecosystem
+
+<br>
+
+* curve
+* yearn
+* zigzak
+* mute.io
+* taker protocol
+
+<br>
+
 ----
 
 ### resources
 
 <br>
 
-* [dune board zksync vs. polygon](https://dune.com/21shares_research/zkevm-comparison-zksync-era-vs-polygon-hermez)
+* [dune board zksync vs. polygon zkEVM](https://dune.com/21shares_research/zkevm-comparison-zksync-era-vs-polygon-hermez)
