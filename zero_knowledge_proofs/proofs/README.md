@@ -15,8 +15,11 @@
 
 <br>
 
-*[zkSNARKS](zkSNARKS.md)
-*[zkSTARKS](zkSTARKS.md)
+* [zkSNARKS](zkSNARKS.md)
+* [zkSTARKS](zkSTARKS.md)
+* [PLONK](PLONK.md)
+* [Bulletproofs](Bulletproofs.md)
+
 
 <br>
 
