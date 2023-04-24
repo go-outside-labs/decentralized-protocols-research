@@ -26,10 +26,10 @@
 
 ### in this dir
 
-* **[zk-rollups overview](zkEVM/rollups.md)**
-* **[zkSync](zkEVM/zkSync)**
-* **[starkware](zkEVM/starkware.md)**
-* **[polygon zkEVM](zkEVM/polygon.md)**
+* **[zk-rollups overview](rollups.md)**
+* **[zkSync](zkSync)**
+* **[starkware](starkware.md)**
+* **[polygon zkEVM](polygon.md)**
 
 <br>
 
