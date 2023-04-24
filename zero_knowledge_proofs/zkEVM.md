@@ -12,7 +12,21 @@
 
 <br>
 
+##### types
+
+* type 1, fully ethereum equivalent. example: taiko, pse.
+* type 2, fully evm equivalent: might differ on data structure and state trees. example: scroll and polygon hermez.
+* type 2.5, evm-equivalent, except for gas costs (increased).
+* type 3, almost evm-equivalent.
+* type 4, high-level-language equivalent (compatible with smart contract languages). example: zksync.
+
+<br>
+
 
 ----
 
 ### resources
+
+<br>
+
+* [the different types of zk-evms, by vitalik](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
