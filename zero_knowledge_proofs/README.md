@@ -8,31 +8,11 @@
 
 * **zero-knowledge proofs** represent **programs as circuits**, where a **prover** generates a proof from public and private inputs, and a **verifier** computes that the output if the statement is correct (without any information regarding the private input).
 * refer to "succinct proofs" instead of "zero-knowledge proofs" when the zero-knowledge property is not present.
-
-<br>
-
-<img width="600" src="https://user-images.githubusercontent.com/1130416/232964885-91475b23-6457-4710-a4e8-ccd41e7b7a78.png">
-
-
-<br>
-
-----
-
-### zk proofs use cases
-
-<br>
-
-* **private transactions**
-  - blockchains such as zcash, with privacy-preserving txs
-  
-* **verifiable computations**
-  - decentralized oracle networks, providing smart contracts with access to off-chain data
-  
-* **highly-scalable and secure l2s**
-  - verifiable computations through methods such as zk-rollups, validiums, and volition by they use l1s as a settlement layer
-  
-* **decentralized identity and authentication**
-  - zkps can underpin identity management systems to enable users to validate their identity
+* zk proofs use cases:
+  * **private transactions**: blockchains such as zcash, with privacy-preserving txs.
+  * **verifiable computations**: decentralized oracle networks, providing smart contracts with access to off-chain data.
+  * **highly-scalable and secure l2s**: verifiable computations through methods such as zk-rollups, validiums, and volition by they use l1s as a settlement layer.
+  * **decentralized identity and authentication**: zkps can underpin identity management systems to enable users to validate their identity.
 
 <br>
 
@@ -43,18 +23,8 @@
 <br>
 
 * **[zkEVMs](zkEVM/README.md)**
+* **[proof systems](proofs)**
 * **[cryptographic primitives](primitives.md)**
-
-##### proof systems
-
-* **[zk-STARKS](proofs/zkSTARKS.md)**
-* **[zk-SNARKS](proofs/zkSNARKS.md)**
-* **[PLONK](proofs/PLONK.md)**
-* **[Bulletproofs](proofs/Bulletproofs.md)**
-
-
-##### applications
-
 * **[machine learning](ml.md)**
 * **[privacy-enhancing technologies](privacy_enhancing_technologies.md)**
 * **[an incomplete catalog of zkp projects](zkp_projects.md)**
