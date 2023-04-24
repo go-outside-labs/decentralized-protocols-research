@@ -47,10 +47,10 @@
 
 ##### proof systems
 
-* **[zk-STARKS](zkSTARKS.md)**
-* **[zk-SNARKS](zkSNARKS.md)**
-* **[PLONK](PLONK.md)**
-* **[Bulletproofs](Bulletproofs.md)**
+* **[zk-STARKS](proofs/zkSTARKS.md)**
+* **[zk-SNARKS](proofs/zkSNARKS.md)**
+* **[PLONK](proofs/PLONK.md)**
+* **[Bulletproofs](proofs/Bulletproofs.md)**
 
 
 ##### applications
