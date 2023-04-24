@@ -9,6 +9,7 @@
 * with zk proofs, zk-rollup can achieve better scalability, security, and faster finality as a scaling solution for ethereum.
 * zkEVM is a scaling solution compatible with ethereum. other solutions such as zksync lite, loopring, and starknet were not evm-compatible.
 * example: the bundling of txs happening within a certain period and settling the proof of a block of txs on the ethereum network instead of the full list of tx that may congest the network.
+* *they use [ZK-SNARK](https://github.com/go-outside-labs/blockchains-protocol-design/blob/main/zero_knowledge_proofs/proofs/zkSNARKS.md) technology to make cryptographic proofs of execution of Ethereum-like txs, either to make it much easier to verify the Ethereum chain itself or to build ZK-rollups that are (close to) equivalent to what Ethereum provides but are much more scalable.* - vitalik
 
 <br>
 
