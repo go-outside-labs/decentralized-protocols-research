@@ -62,7 +62,7 @@
 
 ##### l2s
 
-* **[zk-rollups overview](rollups.md)
+* **[zk-rollups overview](rollups.md)**
 * **[zkSync](zkSync.md)**
 * **[starkware](starkware.md)**
 * **[polygon zkEVM](polygon.md)**
