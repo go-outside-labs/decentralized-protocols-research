@@ -18,7 +18,7 @@
 <img width="540" src="https://user-images.githubusercontent.com/1130416/234139749-4dbac8ab-d742-45f3-b920-b0b51d8698b5.png">
 
 
-* type 1, fully ethereum equivalent. example: taiko and the community zkevm by pse](https://github.com/privacy-scaling-explorations/zkevm-specs).
+* type 1, fully ethereum equivalent. example: taiko and the [community zkevm by pse](https://github.com/privacy-scaling-explorations/zkevm-specs).
 * type 2, fully evm equivalent: might differ on data structure and state trees. example: scroll and polygon hermez.
 * type 2.5, evm-equivalent, except for gas costs (increased).
 * type 3, almost evm-equivalent.
@@ -44,3 +44,4 @@
 <br>
 
 * [the different types of zk-evms, by vitalik](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
+* [l2 beat scaling](https://l2beat.com/scaling/tvl)
