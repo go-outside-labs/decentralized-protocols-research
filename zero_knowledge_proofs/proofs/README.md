@@ -15,8 +15,8 @@
 
 <br>
 
-*[]()
-*[]()
+*[zkSNARKS](zkSNARKS.md)
+*[zkSTARKS](zkSTARKS.md)
 
 <br>
 
