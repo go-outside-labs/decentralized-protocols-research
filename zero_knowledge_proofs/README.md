@@ -42,14 +42,19 @@
 
 <br>
 
-* **[zkEVM](zkEVM.md)**
-* **[zkSync](zkSync.md)**
+* **[zkEVM overview](zkEVM.md)**
 * **[zk-STARKS](zkSTARKS.md)**
 * **[zk-SNARKS](zkSNARKS.md)**
 * **[machine learning](ml.md)**
-* **[list of zkp projects](zkp_projects.md)**
 * **[cryptographic primitives](primitives.md)**
 * **[privacy-enhancing technologies](privacy_enhancing_technologies.md)**
+* **[an incomplete catalog of zkp projects](zkp_projects.md)**
+
+
+##### l2s
+
+* **[zkSync](zkSync.md)**
+* **[starkware](starkware.md)**
 
 
 <br>
