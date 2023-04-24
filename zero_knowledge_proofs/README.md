@@ -24,7 +24,7 @@
 
 * **[zkEVMs](zkEVM/README.md)**
 * **[proof systems](proofs)**
-* **[cryptographic primitives](primitives.md)**
+* **[cryptographic primitives](primitives/README.md)**
 * **[machine learning](applications/ml.md)**
 * **[privacy-enhancing technologies](applications/privacy_enhancing_technologies.md)**
 * **[an incomplete catalog of zkp projects](applications/zkp_projects.md)**
