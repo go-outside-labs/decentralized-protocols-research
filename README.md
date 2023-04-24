@@ -8,6 +8,8 @@
 
 #### 👾 [game theory](game_theory)
 
+#### 🐚 [scalability](scalability)
+
 #### 💰 [economic models](economic_models)
 
 #### 🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)
