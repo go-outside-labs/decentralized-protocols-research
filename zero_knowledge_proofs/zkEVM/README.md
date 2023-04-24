@@ -13,7 +13,10 @@
 
 <br>
 
-##### types
+#### types
+
+<img width="540" src="https://user-images.githubusercontent.com/1130416/234139749-4dbac8ab-d742-45f3-b920-b0b51d8698b5.png">
+
 
 * type 1, fully ethereum equivalent. example: taiko, pse.
 * type 2, fully evm equivalent: might differ on data structure and state trees. example: scroll and polygon hermez.
