@@ -42,7 +42,7 @@
 
 <br>
 
-* **[zkEVM overview](zkEVM.md)**
+* **[zkEVMs](zkEVM/README.md)**
 * **[cryptographic primitives](primitives.md)**
 
 ##### proof systems
@@ -58,14 +58,6 @@
 * **[machine learning](ml.md)**
 * **[privacy-enhancing technologies](privacy_enhancing_technologies.md)**
 * **[an incomplete catalog of zkp projects](zkp_projects.md)**
-
-
-##### l2s
-
-* **[zk-rollups overview](rollups.md)**
-* **[zkSync](zkSync)**
-* **[starkware](starkware.md)**
-* **[polygon zkEVM](polygon.md)**
 
 
 <br>
