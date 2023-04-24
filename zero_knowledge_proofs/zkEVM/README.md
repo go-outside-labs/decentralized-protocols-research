@@ -27,7 +27,7 @@
 ### in this dir
 
 * **[zk-rollups overview](zkEVM/rollups.md)**
-* **[zkSync](zkEVM/zkSync.md)**
+* **[zkSync](zkEVM/zkSync)**
 * **[starkware](zkEVM/starkware.md)**
 * **[polygon zkEVM](zkEVM/polygon.md)**
 
