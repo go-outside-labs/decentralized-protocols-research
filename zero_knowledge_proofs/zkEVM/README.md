@@ -13,6 +13,29 @@
 
 <br>
 
+#### design challenges
+
+* evm has limited support of elliptic curves, hard to do proof recursion since cyclic elliptic curve is not directly supported.
+* evm word size is 256bit, and zkp work over prime fields. mismatch field arithmetic inside a circuit requires range proofs, which adds many constraints per evm step (blowing up the the circuit size).
+* evm has many special opcodes, bringing challenges to circuit design.
+* evm is a stack-based vm. zksync and starkware archtectures define their own ir/air in the register-based model (language compatible instead of native evm-compatible).
+* ethereum storage layout carries large overhead, relying on keccak and mpt (both not zk-friendly).
+* machine-based proof has large overhead (how to complete an evm circuit?).
+
+<br>
+
+
+#### recent advancements
+
+* usage of polynomial commitment, lifting constraints to any degree with a universal or transparent setup.
+* lookup table arguments and customized gadgets, optimizing zk-unfriendly primitives (bitwise operations).
+* recursive proof is more feasible. this type of proof has large overhead as it relies on special pairing-friendly cyclic elliptic curves (mnt). halo can avoid the need of pairing-friendly curve and amortize the cost of recursion using special inner product argument.
+* hardware acceleration making prooving more efficient.
+
+
+
+<br>
+
 #### types
 
 <img width="540" src="https://user-images.githubusercontent.com/1130416/234139749-4dbac8ab-d742-45f3-b920-b0b51d8698b5.png">
@@ -44,5 +67,6 @@
 
 <br>
 
-* [the different types of zk-evms, by vitalik](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
-* [l2 beat scaling](https://l2beat.com/scaling/tvl)
+* **[l2 beat scaling](https://l2beat.com/scaling/tvl)**
+* **[the different types of zk-evms, by vitalik](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)**
+
