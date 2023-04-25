@@ -34,6 +34,7 @@
 * **[zkSync](zkSync)**
 * **[starkware](starkware.md)**
 * **[polygon zkEVM](polygon.md)**
+* **[scroll](scroll.md)**
 
 <br>
 
