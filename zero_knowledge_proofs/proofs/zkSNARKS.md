@@ -40,9 +40,10 @@
 
 * **[what are zk-snarks, by z-cash](https://z.cash/technology/zksnarks/)**
 * **[libsnark, C++ lib for zkSNARKS](https://github.com/scipr-lab/libsnark)**
+* **[zk-snarks in a nutshell, by ef](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell)**
 * **[bellman, a crate for building zk-SNARK circuits](https://github.com/zkcrypto/bellman)**
 * **[an approximate introduction to how zk-snarks are possible, by vitalik](https://vitalik.ca/general/2021/01/26/snarks.html)**
-* **[zk-snarks in a nutshell, by ef](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell)**
+
 
 <br>
 
