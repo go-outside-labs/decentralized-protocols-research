@@ -56,7 +56,7 @@
 * **[zk-rollups overview](rollups.md)**
 * **[zkSync](zkSync)**
 * **[starkware](starkware.md)**
-* **[polygon zkEVM](polygon.md)**
+* **[polygon hermez](polygon.md)**
 * **[scroll](scroll.md)**
 
 <br>
