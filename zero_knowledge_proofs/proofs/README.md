@@ -15,14 +15,12 @@
 
 <br>
 
-##### proofs and protocols
+##### proofs and commitments
 
 * [zkSNARKS](zkSNARKS.md)
 * [zkSTARKS](zkSTARKS.md)
-* [PLONK](PLONK.md)
-
-##### polynomial commitments 
-
+* [PLONK](plonk.md)
+* [DARK](dark.md)
 * [bulletproofs](bulletproofs.md)
 * [FRI](fri.md)
 * [Kate](kate.md)
