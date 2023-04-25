@@ -1,4 +1,4 @@
-## proofs
+## zero-knowledge proofs
 
 <br>
 
@@ -15,10 +15,17 @@
 
 <br>
 
+##### proofs and protocols
+
 * [zkSNARKS](zkSNARKS.md)
 * [zkSTARKS](zkSTARKS.md)
 * [PLONK](PLONK.md)
-* [Bulletproofs](Bulletproofs.md)
+
+##### polynomial commitments 
+
+* [bulletproofs](bulletproofs.md)
+* [FRI]()
+* [Kate]()
 
 
 <br>
