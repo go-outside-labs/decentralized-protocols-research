@@ -11,6 +11,17 @@
 * this entails enconding the computation into polynomials. **a polynomial commitment** is way to hash a polynomial, and the equations between polynomials can be checked by checking equations between hashes.
 * **zcash was the first widespread application of zk-snarks** by encoding some of the network’s consensus rules into it. in may '22, zcash introduced the orchard shielded payment protocol, which utilizes the halo 2 zk proving system (and replace trusted ceremonies).
 
+<br>
+
+#### implementation
+
+* **encoding a polynomial problem**: the program that is to be checked is compiled into a quadractic equation of polynomials, where the equality holds if and only if the program is computed correctly - the prover wants to convince the verifier that this equality holds.
+* **succinctness by random sampling**: the verifier chooses a secret evaluation point to reduce the problem from multiplying polynomials and verifying polynomial function equality to simple multiplication and equality check on numbers. - this reduces both the proof size and the verification time.
+* **homomorphic enconding/encryption**: an encoding/encryption function E is used that has some homomorphic properties (two operations are homomorphic if you can exchange their order without affecting the resul).
+* **zero-knowledge**; verifier can check correct structure without knowing the actual encoded values.
+
+
+
 
 <br>
 
@@ -22,7 +33,7 @@
 
 <br>
 
-##### zk-snarks applied to create a shielded tx (zcash)
+#### zk-snarks applied to create a shielded tx (zcash)
 
 * the sender of a shielded tx constructs a proof to show that, with high probability:
    1. the input values sum to the output values for each shielded transfer.
