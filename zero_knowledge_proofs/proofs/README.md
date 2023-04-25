@@ -24,8 +24,8 @@
 ##### polynomial commitments 
 
 * [bulletproofs](bulletproofs.md)
-* [FRI]()
-* [Kate]()
+* [FRI](fri.md)
+* [Kate](kate.md)
 
 
 <br>
