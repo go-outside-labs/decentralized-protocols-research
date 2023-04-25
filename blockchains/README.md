@@ -4,6 +4,20 @@
 
 ### tl; dr
 
+
+
+
+<br>
+
+#### evm execution
+
+* in native execution, evm will load the bytecode and execute the opcodes in the bytecodes one by one from the beginning.
+* each opcode can be thought as doing as doing the following steps:
+  1. read elements from stack, memory, or storage.
+  2. perform some computation on these elements.
+  3. write back results to stack, memory, or storage.
+
+
 <br>
 
 #### tries
