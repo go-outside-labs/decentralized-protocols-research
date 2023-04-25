@@ -6,7 +6,7 @@
 
 <br>
 
-* layer-2 scalin solution for ethereum, aiming for scalability. 
+* layer-2 scaling solution for ethereum, aiming for scalability. 
 * zkSync 2 is called Era, zkSync 1 is called light.
 * uses "optimistic" transfers, which allow users to send and receive txs without waiting for conformation (reducing tx times, and allowing higher tx throughput).
 * tvl: zkSync era has higher transfers of assets ($125M) than Polygon zkEVM ($2.57M) 
