@@ -7,19 +7,7 @@
 
 <br>
 
-
-
-<br>
-
-#### ecosystem
-
-<br>
-
-* curve
-* yearn
-* zigzak
-* mute.io
-* taker protocol
+* [ecosystem](https://ecosystem.zksync.io/)
 
 <br>
 
