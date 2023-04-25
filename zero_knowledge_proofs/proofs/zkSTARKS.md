@@ -22,3 +22,4 @@
 * [starks, part I: proof with polynomials, by vitalik](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
 * [starks, part II: thank you goodness it's fri-day, by vitalik ](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
 * [starks, part III: into the weeds, by vitalik](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+* [stark 101 videos, by starkware](https://www.youtube.com/watch?v=iuNbrTkH2ik)
