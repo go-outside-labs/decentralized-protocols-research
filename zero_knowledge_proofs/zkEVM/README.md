@@ -58,6 +58,7 @@
 * **[starkware](starkware.md)**
 * **[polygon hermez](polygon.md)**
 * **[scroll](scroll.md)**
+* **[taiko](taiko.md)**
 
 <br>
 
