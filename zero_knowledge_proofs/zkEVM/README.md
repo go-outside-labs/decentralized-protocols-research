@@ -68,5 +68,6 @@
 <br>
 
 * **[l2 beat scaling](https://l2beat.com/scaling/tvl)**
+* **[scroll blog post on zkevm](https://scroll.io/blog/zkEVM)
 * **[the different types of zk-evms, by vitalik](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)**
 
