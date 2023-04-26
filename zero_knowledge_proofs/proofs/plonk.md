@@ -35,3 +35,4 @@ prover run time compared to fully-succinct Sonic**.
 
 * **[understanding plonk, by vitalik](https://vitalik.ca/general/2019/09/22/plonk.html)**
 * **[plonk original paper, by ariel gabizon et al](https://eprint.iacr.org/2019/953.pdf)**
+* **[plookup original paper, by ariel gabizon et al](https://eprint.iacr.org/2020/315)**
