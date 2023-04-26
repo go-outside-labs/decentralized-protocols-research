@@ -21,3 +21,4 @@
 <br>
 
 * **[kzg polynomial commitments, by dankrad feist](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)**
+* **[the original kate paper](https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf)**
