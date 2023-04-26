@@ -14,6 +14,12 @@
 
 <img width="284" src="https://user-images.githubusercontent.com/1130416/234407214-ed3974fd-85cc-471b-a08b-e2edf0efd1a2.png">
 
+<br>
+
+##### common reference strings, trusted setup, multi-party computation ceremony
+
+* for some proofs to work, such as zk-snarks, it's necessary to create a Common Reference String (CRS), which provides public parameters for proving and verifying validity proofs. the security of the proving system depends on the csr setup and some zk-rollups attempt to solve this problem by using a multi-party computation ceremony (mpc) with trusted individuals.
+* used to increase the security of the 
 
 <br>
 
@@ -28,6 +34,7 @@
 * **[PLONK](plonk.md)**
 * **[semaphore](semaphore.md)**
 * **[DARK](dark.md)**
+* **[nova](nova.md)**
 * **[bulletproofs](bulletproofs.md)**
 * **[FRI](fri.md)**
 * **[Kate](kate.md)**
