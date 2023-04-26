@@ -1,4 +1,4 @@
-## ⛓🧱 protocol design for ethereum and other blockchains
+## ⛓🧱 protocol design research for ethereum and other blockchains
 
 <br>
 
