@@ -2,12 +2,10 @@
 
 <br>
 
-### tl; dr:
+### tl; dr
 
 
 ##### 👾 this repository is an *on-going* catalog from my own research and development. 
-
-##### 👾 if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us (we need you).
 
 
 <br>
