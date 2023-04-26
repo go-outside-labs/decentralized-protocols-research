@@ -6,11 +6,15 @@
 
 <br>
 
+
 * rollups move computation (and state storage) off-chain, but keep some data per tx on-chain, using compression tricks to replace data with computation whereve possible (but scalability is still limited by the data bandwidth of the underlying blockchain).
 
 <br>
 
 <img width="589" src="https://user-images.githubusercontent.com/1130416/234379326-901ed83c-4bc5-4c97-bad8-3b9d96dfb1b7.png">
+
+* zk-rollups write transactions to ethereum as calldata, using compression techniques to reduce transaction data.
+
 
 
 
