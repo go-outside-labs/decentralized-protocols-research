@@ -20,5 +20,6 @@
 
 <br>
 
-* **[kzg polynomial commitments, by dankrad feist](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)**
 * **[the original kate paper](https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf)**
+* **[kzg polynomial commitments, by dankrad feist](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)**
+* **[the kzg ceremony, by carl beekhuizen](https://archive.devcon.org/archive/watch/6/the-kzg-ceremony-or-how-i-learnt-to-stop-worrying-and-love-trusted-setups/?tab=YouTube)**
