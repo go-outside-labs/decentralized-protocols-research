@@ -33,6 +33,7 @@
 * **[zkSNARKS](zkSNARKS.md)**
 * **[zkSTARKS](zkSTARKS.md)**
 * **[PLONK](plonk.md)**
+* **[halo2](halo2.md)**
 * **[semaphore](semaphore.md)**
 * **[DARK](dark.md)**
 * **[nova](nova.md)**
