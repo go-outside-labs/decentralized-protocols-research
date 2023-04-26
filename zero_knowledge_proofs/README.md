@@ -7,7 +7,6 @@
 <br>
 
 * **zero-knowledge proofs** represent **programs as circuits**, where a **prover** generates a proof from public and private inputs, and a **verifier** computes that the output if the statement is correct (without any information regarding the private input).
-* refer to "succinct proofs" instead of "zero-knowledge proofs" when the zero-knowledge property is not present.
 * zk proofs use cases:
   * **private transactions**: blockchains such as zcash, with privacy-preserving txs.
   * **verifiable computations**: decentralized oracle networks, providing smart contracts with access to off-chain data.
