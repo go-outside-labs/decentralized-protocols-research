@@ -63,3 +63,7 @@
 
 ### resources
 
+<br>
+
+* **[the original paper for sonic, by mary maller et al](https://eprint.iacr.org/2019/099)**
+
