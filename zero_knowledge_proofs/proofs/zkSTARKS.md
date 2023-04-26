@@ -6,9 +6,10 @@
 
 <br>
 
-* the T stands for "transparent", resolving one fo the primary weakness of zk-snarks, its reliance on a trusted setup.
+* the T stands for "transparent", resolving one of the primary weakness of zk-snarks, its reliance on a trusted setup (they can work without the trusted setup of common reference string (crs)). instead, they rely on publicly verifiable randomness to setup parameters for generating and verifying proofs.
 * thye also come with much simpler cryptographic assumptions, avoiding the need for elliptic curves, pairings, and knowledge of expoent assumptions - instead relying on hashes and information theory (secure on the quantum standard).
-* the size of a proof goes up from 288 bytes to a few hundred kilobytes.
+* the size of a proof goes up from 288 bytes to a few hundred kilobytes (making it more expensive to verify on ethereum).
+* it provides more scalability because the time needed to prove and verify validity proofs increases quasilinearly in relation to the complexity of the underlying computation.
 
 <br>
 
