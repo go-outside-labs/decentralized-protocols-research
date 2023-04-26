@@ -6,7 +6,7 @@
 
 <br>
 
-* **zk-snarks stands for "zero-knowledge succint non-interactive argument of knowledge"**, and refers to a proof construction where one can prove possession of certain information, without revealing the information nor any interaction between the prover and verifier.
+* introduced in 2011, **zk-snarks stands for "zero-knowledge succint non-interactive argument of knowledge"**, and refers to a proof construction where one can prove possession of certain information, without revealing the information nor any interaction between the prover and verifier. it made it possible to efficiently scale the nuber of polynomials that can be gated, improving speed and potential complex applications.
 * a **"succinct" proof is one where both the size of the proof and the time required to verify it grow much more slowly than the computation to be verified**". succint zk proofs can be verified within a few milliseconds**, with a **proof length of only a few hundred bytes** even for large statements.
 * this entails enconding the computation into polynomials. **a polynomial commitment** is way to hash a polynomial, and the equations between polynomials can be checked by checking equations between hashes.
 * **zcash was the first widespread application of zk-snarks** by encoding some of the network’s consensus rules into it. in may '22, zcash introduced the orchard shielded payment protocol, which utilizes the halo 2 zk proving system (and replace trusted ceremonies).
