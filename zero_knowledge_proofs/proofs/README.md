@@ -16,6 +16,21 @@
 
 <br>
 
+##### comparison of proof systems
+
+<br>
+
+
+<img width="550"  src="https://user-images.githubusercontent.com/1130416/234476377-f7c88f31-919f-4503-8b60-203ca9b0c06d.png">
+
+<br>
+
+<img width="600"  src="https://user-images.githubusercontent.com/1130416/234476566-df847c7f-b1ad-42cf-b5dd-85ba2cf7a997.png">
+
+
+
+<br>
+
 ##### common reference strings, trusted setup, multi-party computation ceremony
 
 * for some proofs to work, such as zk-snarks, it's necessary to create a Common Reference String (CRS), which provides public parameters for proving and verifying validity proofs. 
