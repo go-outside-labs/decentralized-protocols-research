@@ -6,8 +6,8 @@
 
 <br>
 
-* plonk stands for "permutations over lagrange-bases for oecumenical noninteractive arguments of knowledge", brining enhancements to the usability of zkps.
-* while plonk still requires a trusted setup procedure similar to snarks, it's universal and updateable trusted setup, meaning:
+* **[introduced in 2019](https://eprint.iacr.org/2019/953.pdf)**, plonk stands for **"permutations over lagrange-bases for oecumenical noninteractive arguments of knowledge"**, brining enhancements to the usability of zkps.
+* while plonk still requires a trusted setup procedure similar to snarks, but it's **universal and updateable trusted setup**, meaning:
     - instead of there being one separate trusted setup for every program to be proved, there is one single trusted setup for the whole scheme.
     - there is a way for multiple parties to participate in the trsuted setup such that it's secure as long as any one of them is honest, and this multi-party procedure is fully sequential (polynomial commitment, in this case, kate).
 * there are two types of constraints:
