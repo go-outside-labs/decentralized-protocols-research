@@ -23,13 +23,14 @@
 
 <br>
 
-* [zkSNARKS](zkSNARKS.md)
-* [zkSTARKS](zkSTARKS.md)
-* [PLONK](plonk.md)
-* [DARK](dark.md)
-* [bulletproofs](bulletproofs.md)
-* [FRI](fri.md)
-* [Kate](kate.md)
+* **[zkSNARKS](zkSNARKS.md)**
+* **[zkSTARKS](zkSTARKS.md)**
+* **[PLONK](plonk.md)**
+* **[semaphore](semaphore.md)**
+* **[DARK](dark.md)**
+* **[bulletproofs](bulletproofs.md)**
+* **[FRI](fri.md)**
+* **[Kate](kate.md)**
 
 
 <br>
