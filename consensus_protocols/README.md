@@ -13,9 +13,6 @@
 
 <img width="589" src="https://user-images.githubusercontent.com/1130416/234379326-901ed83c-4bc5-4c97-bad8-3b9d96dfb1b7.png">
 
-* zk-rollups write transactions to ethereum as calldata, using compression techniques to reduce transaction data.
-
-
 
 
 <br>
@@ -30,9 +27,18 @@
 
 
 <br>
+
 <img width="500" src="https://user-images.githubusercontent.com/1130416/234379163-f55493b4-7ad5-4d0d-9021-0f722cbe34a6.png">
 
+<br>
 
+##### zk-rollups
+
+
+* zk-rollups write transactions to ethereum as calldata, using compression techniques to reduce transaction data. while calldata is not stored as part of the evm's state, it persists on-chain as part of the chain's history logs.
+* users in the zk-rollup sign transactions and submit to L2 operators for processing and inclusion in the next batch. in some cases, the operator is a centralized entity (the sequencer), who executes transactions, aggregates them into batches, and submits to L1.
+* the zk-rollup’s state, which includes L2 accounts and balances, is represented as a merkle tree.
+* the rollup contract won't automatically accept the proposed state commitment until the operator proves the new Merkle root resulted from correct updates to the rollup’s state. this comes from validity proofs.
 
 
 <br>
@@ -41,7 +47,7 @@
 
 ### in this dir
 
-<nr>
+<br>
 
 * **[ethereum](ethereum)**
 * **[snowman](snowman)**
@@ -57,6 +63,7 @@
 
 <br>
 
+* **[what are rollups, by ef](https://ethereum.org/en/developers/docs/scaling/zk-rollups/)**
 * **[upgrading ethereum book, by b. edgington](https://eth2book.info/bellatrix/)**
 * **[go-outside-labs eigenlayer toolkit](https://github.com/go-outside-labs/eigenlayer-toolkit)**
 * **[an incomplete guide to rollups, by vitalik](https://vitalik.ca/general/2021/01/05/rollup.html)**
