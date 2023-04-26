@@ -1,4 +1,4 @@
-## ⛓🧱 ethereum: protocol economy design
+## ⛓🧱 ethereum: protocol design
 
 <br>
 
