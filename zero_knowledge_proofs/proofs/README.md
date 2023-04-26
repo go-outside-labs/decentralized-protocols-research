@@ -31,7 +31,7 @@
 
 <br>
 
-##### common reference strings, trusted setup, multi-party computation ceremony
+##### common reference strings, structured reference strings, trusted setup, multi-party computation ceremony
 
 * for some proofs to work, such as zk-snarks, it's necessary to create a Common Reference String (CRS), which provides public parameters for proving and verifying validity proofs. 
 & the security of the proving system depends on the csr setup and some zk-rollups attempt to solve this problem by using a multi-party computation ceremony (mpc) with trusted individuals.
