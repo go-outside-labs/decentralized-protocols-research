@@ -28,10 +28,11 @@
  
  <br>
  
- * [humanness in the age of ai, by worldcoin](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
- * [zk-img: attested images via zk-proofs, d. kang et al](https://arxiv.org/pdf/2211.04775.pdf)
- * [checks and balances ml and zk, by a16](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
- * [trustless verification of ml, by d. kang](https://ddkang.github.io/blog/2022/10/18/trustless/)
- * [tachikoma, neural nets for zk proof systems](https://github.com/zk-ml/tachikoma)
- * [zkml, framework for constructing proofs of ml model in zksnarks](https://github.com/ddkang/zkml)
- * [ezkl, deep learning inference in zk-snark](https://github.com/zkonduit/ezkl)
+ * **[humanness in the age of ai, by worldcoin](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)
+ * **[zk-img: attested images via zk-proofs, d. kang et al](https://arxiv.org/pdf/2211.04775.pdf)
+ * **[checks and balances ml and zk, by a16](https://a16zcrypto.com/content/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
+ * **[trustless verification of ml, by d. kang](https://ddkang.github.io/blog/2022/10/18/trustless/)
+ * **[tachikoma, neural nets for zk proof systems](https://github.com/zk-ml/tachikoma)
+ * **[zkml, framework for constructing proofs of ml model in zksnarks](https://github.com/ddkang/zkml)
+ * **[ezkl, deep learning inference in zk-snark](https://github.com/zkonduit/ezkl)
+ * **[unraveling zkml, by dr. cathie so](https://www.canva.com/design/DAFgqqAboU0/4HscC5E3YkFRFk3bB64chw/view#1)**
