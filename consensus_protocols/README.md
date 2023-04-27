@@ -40,6 +40,11 @@
 * the zk-rollup’s state, which includes L2 accounts and balances, is represented as a merkle tree.
 * the rollup contract won't automatically accept the proposed state commitment until the operator proves the new Merkle root resulted from correct updates to the rollup’s state. this comes from validity proofs.
 
+<br>
+
+<img width="481" src="https://user-images.githubusercontent.com/1130416/234935489-f65f98a0-a6ac-4b86-b40d-e4aac97733b7.png">
+
+
 
 <br>
 
