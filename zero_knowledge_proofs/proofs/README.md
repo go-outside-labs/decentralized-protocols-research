@@ -16,7 +16,7 @@
 
 <br>
 
-##### comparison of proof systems
+#### comparison of proof systems
 
 <br>
 
@@ -31,10 +31,19 @@
 
 <br>
 
-##### common reference strings, structured reference strings, trusted setup, multi-party computation ceremony
+#### common reference strings, structured reference strings, trusted setup, multi-party computation ceremony
 
-* for some proofs to work, such as zk-snarks, it's necessary to create a Common Reference String (CRS), which provides public parameters for proving and verifying validity proofs. 
-& the security of the proving system depends on the csr setup and some zk-rollups attempt to solve this problem by using a multi-party computation ceremony (mpc) with trusted individuals.
+<br>
+
+<img width="487" src="https://user-images.githubusercontent.com/1130416/235269418-3cb7b4ca-83b7-4930-a367-586cb8be4fc7.png">
+
+
+<br>
+
+* a **trusted setup ceremony** is a procedure that is done to generate a piece of data that must be used every time some cryptographic protocol is run.
+* for some proofs to work, such as zk-snarks, it's necessary to create a **common reference string (CRS)**, which provides public parameters for proving and verifying validity proofs. 
+* the security of the proving system depends on the csr setup and some zk-rollups attempt to solve this problem by using a **multi-party computation ceremony (mpc)** with trusted individuals.
+* modern protocols use the **power-of-tau** setup, which has 1-of-N trust model, with N around hundreds.
 
 
 <br>
@@ -65,5 +74,6 @@
 
 <br>
 
+* **[how do trusted setups work, by vitalik](https://vitalik.ca/general/2022/03/14/trustedsetup.html)**
 * **[the original paper for sonic, by mary maller et al](https://eprint.iacr.org/2019/099)**
 
