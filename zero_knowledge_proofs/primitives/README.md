@@ -12,6 +12,11 @@
 
 <br>
 
+![](https://user-images.githubusercontent.com/1130416/235320176-855998db-d998-45b3-a9cf-e160c4825993.png)
+
+
+<br>
+
 ----
 
 ### shamir's secret sharing
@@ -30,3 +35,8 @@
 <br>
 
 ----
+
+### resources
+
+<br>
+
