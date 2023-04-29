@@ -54,6 +54,7 @@
 * **[zk-snarks in a nutshell, by ef](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell)**
 * **[bellman, a crate for building zk-SNARK circuits](https://github.com/zkcrypto/bellman)**
 * **[an approximate introduction to how zk-snarks are possible, by vitalik](https://vitalik.ca/general/2021/01/26/snarks.html)**
+* **[the crazy security behind the birth of zcash](https://spectrum.ieee.org/the-crazy-security-behind-the-birth-of-zcash)**
 
 
 <br>
