@@ -10,4 +10,23 @@
 * storing txs and signatures as calldata is the cheapst method available for rollups to keep data on l1.
 * the key property of bls signatures is that multiple signatures can be combined into one - so only one aggregate signature needs to be verified and stored on-chain (meaning less gas fees).
 
+<br>
 
+----
+
+### shamir's secret sharing
+
+<br>
+
+* secret sharing algorithm to distribute private information among a group, and the secret cannot be revealed unless a quorum of the groups acts together to pool their knowledge.
+* the secret is matematically divided into parts. if an attacker steals some shares, it's impossible for the attacker to reconstrcut the secret unless they have stolen a quorum number of shares.
+* uses cases: password managers, encrypted emails, and crypto wallets.
+
+<br>
+
+![](https://user-images.githubusercontent.com/1130416/235320099-6ab37a6b-14df-40d4-9c9c-b8142bb6a30b.png)
+
+
+<br>
+
+----
