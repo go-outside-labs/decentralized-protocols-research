@@ -76,4 +76,5 @@
 
 * **[how do trusted setups work, by vitalik](https://vitalik.ca/general/2022/03/14/trustedsetup.html)**
 * **[the original paper for sonic, by mary maller et al](https://eprint.iacr.org/2019/099)**
+* **[a python script for trusted setup](https://github.com/ethereum/research/blob/master/trusted_setup/trusted_setup.py)**
 
