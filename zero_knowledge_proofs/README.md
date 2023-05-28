@@ -44,14 +44,13 @@
 
 <br>
 
-* **[go-outside-labs' zkp circuits gym](https://github.com/go-outside-labs/zkp-circuits)**
 * **[zero knowledge postcast youtube](https://www.youtube.com/@zeroknowledgefm)**
 * **[rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)**
 * **[what are zk proofs, ethereum foundation](https://ethereum.org/en/zero-knowledge-proofs/)**
 * **[the zk-ECDSA landscape, by pse (ethereum foundation)](https://mirror.xyz/privacy-scaling-explorations.eth/djxf2g9VzUcss1e-gWIL2DSRD4stWggtTOcgsv1RlxY)**
 * **the state of zk applications in ethereum, by andyguzman.eth: [1](https://mirror.xyz/andyguzman.eth/p4nNk7Rr-2i-uZDO_lTHJEWtNv3nYt2N2z3Cwly8RHc) and [2](https://mirror.xyz/andyguzman.eth/ZZRLBlx2KjlNnQ84v1doMKg_8QO-XRjYxFfT1Fm_ZDw)**
 * **[zero knowledge dapp from 0 to production, by vivian plasencia](https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production)**
-
+* **[an evolution of models for zkps, with sarah meiklejohn](https://youtube.com/watch?v=HO97kVMI3SE&t=2s)**
 
 
 
