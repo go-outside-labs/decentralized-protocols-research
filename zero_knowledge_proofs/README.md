@@ -13,6 +13,13 @@
   * **highly-scalable and secure l2s**: verifiable computations through methods such as zk-rollups, validiums, and volition by they use l1s as a settlement layer.
   * **decentralized identity and authentication**: zkps can underpin identity management systems to enable users to validate their identity.
 
+* **where to start?**
+  * **[0xparc on circom](https://learn.0xparc.org/circom/)**
+  * **[0xparc on halo2](https://learn.0xparc.org/halo2/)**
+  * **[zk-learnng](https://zk-learning.org/)**
+  * **[zkiap](https://zkiap.com/)**
+  * **[pse's mirror](https://mirror.xyz/privacy-scaling-explorations.eth)**
+
 <br>
 
 
