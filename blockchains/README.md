@@ -2,12 +2,21 @@
 
 <br>
 
+### tl; dr
+
+<br>
+
+* **merkle trees** allows you to cryptographically prove that an element is contained in a set without revealing the entire set.
+
+<br>
+
+---
+
 ### in this dir
 
 <br>
 
 * **[ethereum blockchain](ethereum.md)**
-
 
 
 <br>
