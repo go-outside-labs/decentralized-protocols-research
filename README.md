@@ -34,7 +34,7 @@
 
 ##### 👍🏽 [optimization methods](optimization)
 
-##### 🧠 [cryptography](cryptography)
+##### 🧠 [applied cryptography](cryptography)
 
 
 
