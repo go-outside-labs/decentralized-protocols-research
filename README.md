@@ -2,39 +2,46 @@
 
 <br>
 
-### tl; dr
-
-
-<br>
-
-#### 👾 this repository is an *on-going* catalog from my own research and development. 
+####  this repository is an *on-going* catalog from my own research and development. 
 
 
 <br>
 
 ---
 
-### topics
+### how-to and code
+
+<br>
+
+* **🪼 [setting up and running a dappnode](dappnode)**
 
 
+<br>
 
-##### 👉 [how blockchain works](blockchains)
+-----
 
-##### 👾 [game theory](game_theory)
+### research
 
-##### 🐚 [scalability](scalability)
+<br>
 
-##### 💰 [economic models](economic_models)
 
-##### 🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)
+* **👉 [how blockchain works](blockchains)**
 
-##### 🧮 [zero-knowledge proofs](zero_knowledge_proofs)
+* **👾 [game theory](game_theory)**
 
-##### 📀 [data availability layer](data_availability)
+* **🐚 [scalability](scalability)**
 
-##### 👍🏽 [optimization methods](optimization)
+* **💰 [economic models](economic_models)**
 
-##### 🧠 [applied cryptography](cryptography)
+* **🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)**
+
+* **🧮 [zero-knowledge proofs](zero_knowledge_proofs)**
+
+* **📀 [data availability layer](data_availability)**
+
+* **👍🏽 [optimization methods](optimization)**
+  
+* **🧠 [applied cryptography](cryptography)**
 
 
 
