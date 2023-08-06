@@ -35,8 +35,6 @@
 
 * **🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)**
 
-* **🧮 [zero-knowledge proofs](zero_knowledge_proofs)**
-
 * **📀 [data availability layer](data_availability)**
 
 * **👍🏽 [optimization methods](optimization)**
