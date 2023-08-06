@@ -2,14 +2,14 @@
 
 <br>
 
-####  this repository is an *on-going* catalog from my own research and development. 
+####  ✨ *this repository is an *on-going* catalog from my own research and development.* ✨
 
 
 <br>
 
----
 
-### how-to and code
+
+### how-tos
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
------
+
 
 ### research
 
