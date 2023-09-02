@@ -18,7 +18,7 @@
 
 <br>
 
-
+----
 
 ### research
 
@@ -44,3 +44,12 @@
 
 
 <br>
+
+
+----
+
+## other resrouces
+
+<br>
+
+* **[my zero-knowledge toolkit](https://github.com/go-outside-labs/zero-knowledge-toolkit)**
