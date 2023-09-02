@@ -1,4 +1,4 @@
-## 🧱⛓ how blockchain works
+## 🧱⛓ intros to blockchain 
 
 <br>
 
