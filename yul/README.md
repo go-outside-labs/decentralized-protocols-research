@@ -1,4 +1,4 @@
-## ⛓🧰🪸 [ongoing] 𝘄𝗲𝗯𝟯 yul and formal verification
+## yul and formal verification
 
 <br>
 
