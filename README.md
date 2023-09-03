@@ -1,26 +1,6 @@
 ## ⛓🧱 decentralized protocols research 
 
-<br>
 
-####  ✨ *this repository is an *on-going* catalog from my own research and development.* ✨
-
-
-<br>
-
-
-
-### how-tos
-
-<br>
-
-* **🪼 [setting up and running a dappnode](dappnode)**
-
-
-<br>
-
-----
-
-### research
 
 <br>
 
@@ -41,15 +21,6 @@
   
 * **🧠 [applied cryptography](cryptography)**
 
+* **🔭 [yul and formal verification](yul)**
 
 
-<br>
-
-
-----
-
-## other resrouces
-
-<br>
-
-* **[my zero-knowledge toolkit](https://github.com/go-outside-labs/zero-knowledge-toolkit)**
