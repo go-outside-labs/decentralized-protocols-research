@@ -1,4 +1,4 @@
-## ⛓🧱 decentralized protocols research (my notes and resources)
+## ⛓🧱 decentralized protocols: my research notes
 
 
 
