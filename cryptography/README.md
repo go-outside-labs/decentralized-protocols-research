@@ -20,3 +20,4 @@
 * **[the 12 commandments of synchornization](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.3871&rep=rep1&type=pdf)**
 * **[how to leak a secret](https://people.csail.mit.edu/rivest/pubs/RST01.pdf)**
 * **[ring confidential transactions](https://eprint.iacr.org/2015/1098.pdf)**
+* **[optimizing sparse merkle trees](https://ethresear.ch/t/optimizing-sparse-merkle-trees/3751)**
