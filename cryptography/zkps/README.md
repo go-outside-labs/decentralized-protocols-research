@@ -64,6 +64,7 @@
 <br>
 
 * **[zkiap](https://zkiap.com/)**
+* **[zkrepl](https://zkrepl.dev/)**
 * **[zk-learnng](https://zk-learning.org/)**
 * **[pse's mirror](https://mirror.xyz/privacy-scaling-explorations.eth)**
 * **[0xparc on circom](https://learn.0xparc.org/circom/)**
