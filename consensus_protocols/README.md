@@ -76,10 +76,12 @@
 - zk-rollups from starkware
 - not a zkevm
 - used the cairo language
+- has recently open-souced their STARK prover
 
 ##### polygon zkevm
 - part of polygon 2.0, an ecosystem of zk-rollups
 - converting polygon pos into a zk-validum
+- has their prover open-sourced
 
 #### linea
 - another recent zkevm from consensys
