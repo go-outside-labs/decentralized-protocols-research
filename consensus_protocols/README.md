@@ -106,8 +106,7 @@
 * **[ethereum](ethereum)**
 * **[snowman](snowman)**
 * **[tendermint](tendermint)**
-* **[zkps](https://github.com/go-outside-labs/decentralized-protocols-research/tree/main/cryptography/zkps)**
-* **[zkevms](zkevms/)**
+* **[zkps](https://github.com/go-outside-labs/decentralized-protocols-research/tree/main/cryptography/zkps)** and **[zkevms](https://github.com/go-outside-labs/decentralized-protocols-research/tree/main/cryptography/zkps/zkEVM)**
 
 
 <br>
