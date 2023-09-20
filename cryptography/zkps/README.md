@@ -77,5 +77,6 @@
 * **[zero knowledge dapp from 0 to production, by vivian plasencia](https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production)**
 * **[an evolution of models for zkps, with sarah meiklejohn](https://youtube.com/watch?v=HO97kVMI3SE&t=2s)**
 * **[an incomplete guide to folding](https://taiko.mirror.xyz/tk8LoE-rC2w0MJ4wCWwaJwbq8-Ih8DXnLUf7aJX1FbU)**
+* **[a new era: safe deploys on zksync era](https://safe.mirror.xyz/yvnFJxFWrlHTXZFBLfQiKuPyW7zwa2TSurXz5Btl9Jk)**
 
 
