@@ -13,7 +13,11 @@
 
 <br>
 
-#### design challenges
+---
+
+### design challenges
+
+<br>
 
 * evm has limited support of elliptic curves, hard to do proof recursion since cyclic elliptic curve is not directly supported.
 * evm word size is 256bit, and zkp work over prime fields. mismatch field arithmetic inside a circuit requires range proofs, which adds many constraints per evm step (blowing up the the circuit size).
@@ -25,7 +29,11 @@
 <br>
 
 
-#### recent advancements
+---
+
+### recent advancements
+
+<br>
 
 * usage of polynomial commitment, lifting constraints to any degree with a universal or transparent setup.
 * lookup table arguments and customized gadgets, optimizing zk-unfriendly primitives (bitwise operations).
@@ -33,12 +41,13 @@
 * hardware acceleration making prooving more efficient.
 
 
-
 <br>
 
-#### types
+---
 
-<img width="540" src="https://user-images.githubusercontent.com/1130416/234139749-4dbac8ab-d742-45f3-b920-b0b51d8698b5.png">
+### types
+
+<br>
 
 
 * type 1, fully ethereum equivalent. example: taiko and the **[community zkevm by pse](https://github.com/privacy-scaling-explorations/zkevm-specs)**.
@@ -49,9 +58,19 @@
 
 <br>
 
+<p align="center">
+<img width="450" src="https://user-images.githubusercontent.com/1130416/234139749-4dbac8ab-d742-45f3-b920-b0b51d8698b5.png">
+</p>
+
+
+
+<br>
+
 ---
 
 ### in this dir
+
+<br>
 
 * **[zk-rollups overview](rollups.md)**
 * **[zkSync](zkSync)**
@@ -64,7 +83,7 @@
 
 ----
 
-### resources
+### external resources
 
 <br>
 
@@ -72,4 +91,5 @@
 * **[scroll blog post on zk-evms](https://scroll.io/blog/zkEVM)**
 * **[the different types of zk-evms, by vitalik](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)**
 * **[how will ethereum's multi-client philosophy interact with zk-evms, by vitalik](https://vitalik.ca/general/2023/03/31/zkmulticlient.html)**
+* **[pse series on zkevms](https://mirror.xyz/privacy-scaling-explorations.eth/I5BzurX-T6slFaPbA4i3hVrO7U2VkBR45eO-N3CSnSg)**
 
