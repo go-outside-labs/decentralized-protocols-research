@@ -22,9 +22,9 @@
 * evm has limited support of elliptic curves, hard to do proof recursion since cyclic elliptic curve is not directly supported.
 * evm word size is 256bit, and zkp work over prime fields. mismatch field arithmetic inside a circuit requires range proofs, which adds many constraints per evm step (blowing up the the circuit size).
 * evm has many special opcodes, bringing challenges to circuit design.
-* evm is a stack-based vm. zksync and starkware archtectures define their own ir/air in the register-based model (language compatible instead of native evm-compatible).
+* evm is a stack-based vm. zksync and starkware architectures define their own ir/air in the register-based model (language compatible instead of native evm-compatible).
 * ethereum storage layout carries large overhead, relying on keccak and mpt (both not zk-friendly).
-* machine-based proof has large overhead (how to complete an evm circuit?).
+* machine-based proof has a large overhead (how to complete an evm circuit?).
 
 <br>
 
@@ -37,8 +37,8 @@
 
 * usage of polynomial commitment, lifting constraints to any degree with a universal or transparent setup.
 * lookup table arguments and customized gadgets, optimizing zk-unfriendly primitives (bitwise operations).
-* recursive proof is more feasible. this type of proof has large overhead as it relies on special pairing-friendly cyclic elliptic curves (mnt). halo can avoid the need of pairing-friendly curve and amortize the cost of recursion using special inner product argument.
-* hardware acceleration making prooving more efficient.
+* recursive proof is more feasible. this type of proof has a large overhead as it relies on special pairing-friendly cyclic elliptic curves (mnt). halo can avoid the need for a pairing-friendly curve and amortize the cost of recursion using special inner product argument.
+* hardware acceleration, making proving more efficient.
 
 
 <br>
