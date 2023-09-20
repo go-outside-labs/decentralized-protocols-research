@@ -10,6 +10,12 @@
 
 ### tl; dr
 
+<br>
+
+* **zk-rollups** write transactions to ethereum as calldata, using compression techniques to reduce transaction data. while calldata is not stored as part of the evm's state, it persists on-chain as part of the chain's history logs.
+  * users in the zk-rollup sign transactions and submit to L2 operators for processing and inclusion in the next batch. in some cases, the operator is a centralized entity (the sequencer), who executes transactions, aggregates them into batches, and submits to L1.
+  * the zk-rollup’s state, which includes L2 accounts and balances, is represented as a merkle tree.
+  * the rollup contract won't automatically accept the proposed state commitment until the operator proves the new Merkle root resulted from correct updates to the rollup’s state. this comes from validity proofs.
 
 
 * **zero-knowledge proofs** represent **programs as circuits**, where a **prover** generates a proof from public and private inputs, and a **verifier** computes that the output if the statement is correct (without any information regarding the private input).
