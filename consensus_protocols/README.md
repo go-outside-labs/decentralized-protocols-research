@@ -17,6 +17,7 @@
 
 
 
+
 <br>
 
 ---
@@ -103,6 +104,7 @@
 
 <br>
 
+* **[decentralized sequencers](decentralized_sequencers)**
 * **[ethereum](ethereum)**
 * **[snowman](snowman)**
 * **[tendermint](tendermint)**
