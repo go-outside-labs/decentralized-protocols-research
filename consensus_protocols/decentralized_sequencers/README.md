@@ -2,6 +2,7 @@
 
 <br>
 
+![](https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/1e892bc0-a2a5-4064-b5dc-a321c13e1b87)
 
 
 <br>
