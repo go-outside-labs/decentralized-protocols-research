@@ -18,5 +18,4 @@
 * **[shared sequencers, by bridge harris](https://bridgeharris.substack.com/p/a-primer-on-shared-sequencers)**
 * **[shared sequencers, by maven11](https://maven11.substack.com/p/the-shared-sequencer)**
 * **[shared sequencers, dba](https://dba.mirror.xyz/NTg5FSq1o_YiL_KJrKBOsOkyeiNUPobvZUrLBGceagg)**
-* **[shared sequencers, by alexbeckett](https://www.alexbeckett.xyz/uniting-rollups-with-shared-sequencers/)**
 * **[shared sequencers, by celestia](https://forum.celestia.org/t/sharing-a-sequencer-set-by-separating-execution-from-aggregation/702)**
