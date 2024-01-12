@@ -2,7 +2,7 @@
 
 <br>
 
-### directories
+### in this repo:
 
 <br>
 
