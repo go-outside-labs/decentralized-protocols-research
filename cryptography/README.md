@@ -16,6 +16,7 @@
 
 <br>
 
+* **[on simple private information retrieval experiments](https://mirror.xyz/go-outside.eth/4G5bsqUkjLxhQ0M9so3f25o4cABwN--tC40N3jkReug**)
 * **[authenticated data structures as a library](https://bentnib.org/posts/2016-04-12-authenticated-data-structures-as-a-library.html)**
 * **[bls multi-signatures with pub-key aggregation](https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html)**
 * **[authenticated data structures, generically](https://www.cs.umd.edu/~mwh/papers/gpads.pdf)**
