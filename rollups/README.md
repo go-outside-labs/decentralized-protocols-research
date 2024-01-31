@@ -80,6 +80,15 @@
 
 <br>
 
+---
+
+### in this dir
+
+* **[zkps](https://github.com/go-outside-labs/decentralized-protocols-research/tree/main/cryptography/zkps)**
+
+
+<br>
+
 
 ---
 
