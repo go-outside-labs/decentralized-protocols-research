@@ -11,18 +11,21 @@
 * ethereum protocol-level changes such as sharding and eip-4488 (proto-sharding) are intended to increase da and reduce the cost of storing data on ethereum. the current leading design is **danksharding**, which should happen in several steos.
 
 <br>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/232964658-61f5ca00-60dc-4d6e-bee0-52a7e63b6139.png" width="60%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
+</p>
 
-<img width="272" src="https://user-images.githubusercontent.com/1130416/232964658-61f5ca00-60dc-4d6e-bee0-52a7e63b6139.png">
+
 
 <br>
-
-----
 
 ### in this dir
 
 <br>
 
 * [eip-4844](eip_4844.md)
+* [celestia](celestia.md)
 
 
 <br>
