@@ -19,7 +19,7 @@
 * **🐚 [scalability](scalability)**
 * **💰 [economic models](economic_models)**
 * **🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)**
-* **📀 [data availability layer](data_availability)**
+* **📀 [data availability](data_availability)**
 * **👍🏽 [optimization methods](optimization)**
 * **🧠 [applied cryptography](cryptography)**
 * **🔭 [yul and formal verification](yul)**
