@@ -24,8 +24,9 @@
 
 <br>
 
-* [eip-4844](eip_4844.md)
 * [celestia](celestia.md)
+* [eip-4844]([eip_4844.md](https://github.com/go-outside-labs/decentralized-protocols-research/blob/main/scalability/eip-4844.md))
+
 
 
 <br>
