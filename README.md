@@ -8,19 +8,15 @@
 </p>
 
 <br>
-
-**notes and code on ongoing research:**
-
-
 <br>
 
-* **👉 [how blockchain works](blockchains)**
+* **👉 [how blockchains work](blockchains)**
 * **👾 [game theory](game_theory)**
 * **🐚 [scalability](scalability)**
-* **💰 [economic models](economic_models)**
-* **🫱🏻‍🫲🏽 [consensus and rollups](consensus_protocols)**
+* **🔮 [rollups](rollups)**
+* **🫱🏻‍🫲🏽 [consensus](consensus)**
 * **📀 [data availability](data_availability)**
 * **👍🏽 [optimization methods](optimization)**
 * **🧠 [applied cryptography](cryptography)**
 * **🔭 [yul and formal verification](yul)**
-
+* **💰 [economic models](economic_models)**
