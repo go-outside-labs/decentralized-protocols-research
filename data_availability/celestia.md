@@ -129,16 +129,22 @@
 
 <br>
 
+<p align="center">
+<img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/b62c80fe-d40a-493f-86da-d880bd867d99" width="80%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
+</p>
+
 
 
 <br>
+
+* Celestia uses a standard gas-price prioritised mempool, where transactions with higher fees will be prioritised by validators. Fees are comprised of a flat fee per transaction and then a variable fee based on the size of each blob in the transaction.
+
 <br>
 
 ---
 
 ### lexicon
 
-<br>
 
 * **Blobs**: data is posted to Celestia's DA layer by using `MsgPayForBlobs` transactions to the core network.
 * **Namespaces**: Celestia partitions the block data into multiple namespaces, one for every application. This allows applications to only download their data, and not the data of other applications.
@@ -146,7 +152,9 @@
 * **Consensus**: the ordering of txs is agreed upon by a set of validators.
 * **Data availability commitee (DAC)**: permissioned group of nodes responsible for providing da to a blockchain.
 * **Data availability layer**: a blockchain that provides for other types of chains (e.g., rollups).
-* **Data throughput**: a measurement of the data capacity of a blockchain, and calculated by the amount of data that a blockcg
+* **Settlement layer**: a modular blockchain whose primary role is to provide proof verification and dispute resolution for rollups.
+* **Data throughput**: a measurement of the data capacity of a blockchain, and calculated by the amount of data that a block.
+* **The data availability problem**: concerned with whether the data in the proposed block can be verified that is available
   
 <br>
 
