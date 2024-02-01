@@ -8,12 +8,19 @@
 
 * Celestia is a modular data availability (DA) network that scales with the number of users, by decoupling execution from consensus and introducing a new primitive, **data availability sampling** (DAS).
 * Celestia DA layer consists of a PoS blockchain (celestia app), an application that provides transactions to faciliate the DA layer, and is built using Cosmos SDK.
-* Rollups and L2s use Celestia as a network for publishing and making transaction DA available (Celestia can scale to the data throughput needed for millions of rollups without compromising on security).
+* Rollups and L2s use Celestia as a network for publishing and making transaction DA available, where optimistic rollups require data availability to detect fraud and zero-knowledge rollups require data availability to reconstruct the state of the chain (Celestia can scale to the data throughput needed for millions of rollups without compromising on security).
 
 <br>
 <p align="center">
 <img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/1130416/9e6e7363-de60-482d-a83a-6095f3c68b0e" width="80%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
 </p>
+
+<br>
+
+#### questions
+
+* how 2d reed-solomon encoding actually works?
+* 
 
 
 <br>
@@ -31,7 +38,7 @@
 
 * Celestia does not require a majority of the consensus (i.e. block producers) to be honest to guarantee data availability.
   - If the extended data is invalid, the original data might not be recoverable, even if the light nodes are sampling sufficient unique chunks.
-  - As a solution, fraud proofs of incorrectly generated extended data enable light nodes to reject blocks with invalid extended data.
+  - As a solution, da fraud proofs of incorrectly generated extended data enable light nodes to reject blocks with invalid extended data.
   - Such proofs require reconstructing the encoding and verifying the mismatch.
 
 
@@ -85,6 +92,48 @@
 
 <br>
 
+----
+
+### celestia light node
+
+* Light nodes ensure da, and they are the most common way to interact with celestia.
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/fe6907a2-1189-4b03-92b3-e70279004a72" width="80%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
+</p>
+
+
+<br>
+
+---
+
+### ethereum fallback
+
+* a mechanism that enables l2s to "fallback" to using ethereum calldata for da when celestia mainnet is under downtime. it's triggered whenever the sequencer has an error sending the `PayForBlobs` transacations to celestia.
+* fallback can also be triggered due a congested mempool or nonce error, and can be simulated with an error as low as balance or incorrect sequence.
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/fb1597fd-c4c7-4fdb-8ebd-d19811c2c256" width="80%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
+</p>
+
+
+<br>
+
+-----
+
+### blockspace
+
+* to publish data on Celestia, developers can submit `PayForBlobs` transactions, which consist of the identity of the sender, the data to be made available, the data size, the namespace, and a signature.
+* each `PayForBlobs` transaction is split into two parts: the blob or blobs which include the data to be made available along with the namespace, and the executable payment transaction which includes a commitment to the data.
+* both the blobs and executable payment transactions are put into the block within the appropriate namespace, the block data is extended using erasure coding and then Merkelized into a data root commitment included in the block header.
+
+<br>
+
+
+
+<br>
+<br>
+
 ---
 
 ### lexicon
@@ -93,6 +142,11 @@
 
 * **Blobs**: data is posted to Celestia's DA layer by using `MsgPayForBlobs` transactions to the core network.
 * **Namespaces**: Celestia partitions the block data into multiple namespaces, one for every application. This allows applications to only download their data, and not the data of other applications.
+* **Blockchain cluster:** a group of blockchains that can communicate with each other in a trust-minimized way.
+* **Consensus**: the ordering of txs is agreed upon by a set of validators.
+* **Data availability commitee (DAC)**: permissioned group of nodes responsible for providing da to a blockchain.
+* **Data availability layer**: a blockchain that provides for other types of chains (e.g., rollups).
+* **Data throughput**: a measurement of the data capacity of a blockchain, and calculated by the amount of data that a blockcg
   
 <br>
 
