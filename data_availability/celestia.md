@@ -6,8 +6,8 @@
 
 <br>
 
-* Celestia is a modular data availability (DA) network that scales with the number of users, by decoupling execution from consensus and introducing a new primitive, **data availability sampling** (DAS).
-* Celestia DA layer consists of a PoS blockchain (celestia app), an application that provides transactions to faciliate the DA layer, and is built using Cosmos SDK.
+* Celestia is a modular data availability (DA) network that scales with the number of users, by decoupling execution from consensus and introducing a new primitive, **data availability sampling** (DAS), through **namespaced merkle trees**.
+* Celestia DA layer consists of a PoS blockchain (celestia app), an application that provides transactions to faciliate the DA layer and is built using Cosmos SDK.
 * Rollups and L2s use Celestia as a network for publishing and making transaction DA available, where optimistic rollups require data availability to detect fraud and zero-knowledge rollups require data availability to reconstruct the state of the chain (Celestia can scale to the data throughput needed for millions of rollups without compromising on security).
 
 <br>
@@ -20,7 +20,8 @@
 #### questions
 
 * how 2d reed-solomon encoding actually works?
-* 
+* how does a new blockchain in celestia rely on previous validators?
+
 
 
 <br>
@@ -38,7 +39,7 @@
 
 * Celestia does not require a majority of the consensus (i.e. block producers) to be honest to guarantee data availability.
   - If the extended data is invalid, the original data might not be recoverable, even if the light nodes are sampling sufficient unique chunks.
-  - As a solution, da fraud proofs of incorrectly generated extended data enable light nodes to reject blocks with invalid extended data.
+  - As a solution, da fraud proofs of incorrectly generated extended data enable light nodes to reject blocks with invalid extended data (data availability proofs using erasure codes).
   - Such proofs require reconstructing the encoding and verifying the mismatch.
 
 
@@ -86,6 +87,8 @@
   * the replacement of regular Merkle tree used by Tendermint to store block data wiht a Namespaced Merkle tree that enables the above layers (execution and settlement) to only download the needed data.
 * celestia-core nodes are still using the Tendermint p2p network.
 * Similarly to Tendermint, celestia-core is connected to the application layer (i.e., the state machine) by ABCI++.
+  - Like its predecessor, ABCI++ is the interface between Tendermint (a state-machine replication engine) and the actual state machine being replicated (i.e., the application). The API consists of a set of methods, each with a corresponding Request and Response message type.
+  - All ABCI++ messages and methods are defined in protocol buffers
 * The celestia-app state machine is necessary to execute the PoS logic and to enable the governance of the DA layer.
   - However, the celestia-app is data-agnostic -- the state machine neither validates nor stores the data that is made available by the celestia-app.    
 
@@ -94,13 +97,28 @@
 
 ----
 
-### celestia light node
+### celestia light nodes
 
 * Light nodes ensure da, and they are the most common way to interact with celestia.
 
 <p align="center">
 <img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/fe6907a2-1189-4b03-92b3-e70279004a72" width="80%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
 </p>
+
+
+<br>
+
+---
+
+### celestia full nodes
+
+* full nodes store all the data.
+* they send block shares, headers, and fraud proofs to light nodes (while light nodes gossif headers, fraud proofs, and sometimes block shares between one another).
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/39e2b9a8-283a-42c6-b7dc-ec9c7d2fe48e" width="80%" align="center" style="padding:1px;border:1px solid black;" title="Jan 7th"/>
+</p>
+
 
 
 <br>
@@ -168,3 +186,5 @@
 * **[cosmos sdk](https://docs.cosmos.network/)**
 * **[tendermint consensus algorithm docs](https://docs.tendermint.com/)**
 * **[building a sparse merkle tree from scratch in rust, by bt3gl](https://mirror.xyz/go-outside.eth/zX1BaGZLHAcQOKdhFnSSM0VW67_-OFCi5ZegGFPryvg)**
+* **[lazyledger: a distributed da ledger with client-side smart contracts, by m. al-bassam](https://arxiv.org/abs/1905.09274)**
+* **[fraud and da proofs: maximising light client security, by m. al-bassam et al.](https://arxiv.org/abs/1809.09044)**
