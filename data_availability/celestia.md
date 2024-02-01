@@ -37,11 +37,19 @@
   - This new primitive enables Celestia light nodes to, instead of downloading all data, download only **block headers that contain commitments** (i.e. Merkle roots) of the block data (i.e. the list of transactions).
   - To make DAs possible, Celestia uses as **2D Reed-Solomon encoding scheme** to encode the block data: every block data is split into `k x k` chunks, arranged in a `k x k` matrix, and extended with parity data into a `2k x 2k` extended matrix by applying multiple times Reed-Solomon encoding.
 
+<br>
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/6e91d396-2e6e-4d71-9383-37cc6b7d1dcf" width="80%" align="center" style="padding:1px;border:1px solid black;" />
+<img src="https://github.com/go-outside-labs/decentralized-protocols-research/assets/138340846/881f705f-2e2e-43ae-b2cf-05bb147e1df8" width="80%" align="center" style="padding:1px;border:1px solid black;" />
+</p>
+
+<br>
+
 * Celestia does not require a majority of the consensus (i.e. block producers) to be honest to guarantee data availability.
   - If the extended data is invalid, the original data might not be recoverable, even if the light nodes are sampling sufficient unique chunks.
   - As a solution, da fraud proofs of incorrectly generated extended data enable light nodes to reject blocks with invalid extended data (data availability proofs using erasure codes).
   - Such proofs require reconstructing the encoding and verifying the mismatch.
-
 
 <br>
 
