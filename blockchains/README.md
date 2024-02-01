@@ -3,6 +3,20 @@
 <br>
 
 
+### tl; dr
+
+* blockchains have the following core functions (although modular blockchains specialize in one or two):
+  * execution: transaction execution and state update.
+  * settlement: finality and dispute resolution.
+  * consensus: agreement on transaction ordering.
+  * data availability: prove data was published to the network.
+
+
+
+<br>
+
+---
+
 ### in this dir
 
 <br>
