@@ -54,4 +54,4 @@
 * **[a survey of execution client diversity, from ethstaker](https://paragraph.xyz/@ethstaker/execution-client-diversity)**
 * **[on a rusty sparse merkle tree experiment, by bt3gl](https://mirror.xyz/go-outside.eth/zX1BaGZLHAcQOKdhFnSSM0VW67_-OFCi5ZegGFPryvg)**
 * **[on uploading your soul to the interplanetary sys, by bt3gl](https://mirror.xyz/steinkirch.eth/A3iJGhXTJI5fgQoZVgIu3ovPV1P8zrxigpwngm0n4I0)**
-
+* **[ethereum transaction visualizer](https://github.com/naddison36/tx2uml)**
