@@ -46,7 +46,7 @@
 
 <br>
 
-
+* **[ef's ethereum protocol wiki](https://epf.wiki/#/)**
 * **[celestia's namespaced merkle tree](https://github.com/celestiaorg/nmt)**
 * **[leaves of hash, by trail of bits](https://blog.trailofbits.com/2019/06/17/leaves-of-hash/)**
 * **[how merkle trees work, by consensys](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)**
