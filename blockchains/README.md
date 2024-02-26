@@ -48,6 +48,7 @@
 
 * **[ef's ethereum protocol wiki](https://epf.wiki/#/)**
 * **[celestia's namespaced merkle tree](https://github.com/celestiaorg/nmt)**
+* **[jellyfish merkle tree, by z. gao et al](https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf?ref=127.0.0.1)**
 * **[leaves of hash, by trail of bits](https://blog.trailofbits.com/2019/06/17/leaves-of-hash/)**
 * **[how merkle trees work, by consensys](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)**
 * **[neo-cypherpunk toolkit, by go outside labs](https://github.com/go-outside-labs/neo-cypherpunk-toolkit)**
