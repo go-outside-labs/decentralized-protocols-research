@@ -193,6 +193,6 @@
 * **[celestia docs](https://docs.celestia.org/learn/how-celestia-works/data-availability-layer#namespaced-merkle-trees-nmts)**
 * **[cosmos sdk](https://docs.cosmos.network/)**
 * **[tendermint consensus algorithm docs](https://docs.tendermint.com/)**
-* **[building a sparse merkle tree from scratch in rust, by bt3gl](https://mirror.xyz/go-outside.eth/zX1BaGZLHAcQOKdhFnSSM0VW67_-OFCi5ZegGFPryvg)**
+* **[building a sparse merkle tree from scratch in rust, by mia stein](https://mirror.xyz/go-outside.eth/zX1BaGZLHAcQOKdhFnSSM0VW67_-OFCi5ZegGFPryvg)**
 * **[lazyledger: a distributed da ledger with client-side smart contracts, by m. al-bassam](https://arxiv.org/abs/1905.09274)**
 * **[fraud and da proofs: maximising light client security, by m. al-bassam et al.](https://arxiv.org/abs/1809.09044)**
