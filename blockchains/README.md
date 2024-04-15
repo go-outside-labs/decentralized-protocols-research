@@ -36,6 +36,7 @@
 <br>
 
 * **[ethereum blockchain](ethereum.md)**
+* **[solana blockchain](solana.md)**
 
 
 <br>
